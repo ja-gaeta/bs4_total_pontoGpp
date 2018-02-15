@@ -1,4 +1,7 @@
+$icon-size: 50px;
+$primary-color: #ff5f1f;
+
 .fa {
-  font-size: 50px;
-  color: blue;
+  font-size: $icon-size;
+  color: $primary-color;
 }
