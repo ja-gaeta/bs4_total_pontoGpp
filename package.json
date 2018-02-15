@@ -1,0 +1,33 @@
+{
+  "name": "bs4-total-pontoGpp",
+  "version": "1.0.0",
+  "description": "Automatização com Gulp para front-end com Bootstrap 4",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "bootstrap4",
+    "gulp",
+    "front-end"
+  ],
+  "author": "J. A. Gaeta Mendes",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-htmlclean": "^2.7.17",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-strip-debug": "^2.0.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
