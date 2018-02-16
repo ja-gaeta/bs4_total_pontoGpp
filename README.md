@@ -1,8 +1,12 @@
 # Bootstrap Total - Ponto G++
 
-## Boilerplate para Boostrap 4 com Gulp
+## Boilerplate para Bootstrap 4 com Gulp
 
-Um _workflow_ usando o Gulp para desenvolvimento _front-end_ com o **Bootstrap 4**.
+Um _workflow_ usando o Gulp para desenvolvimento _front-end_ com o **Bootstrap 4**. Para sua utilização é preciso instalar o Gulp globalmente no seu sistema, com o comando:
+
+```bash
+$ npm install gulp-cli -g
+```
 
 ## Instruções de uso:
 
