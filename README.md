@@ -31,3 +31,21 @@ $ npm start
 * scss - use o arquivo **main.scss** para personalizar seu **css**.
 
 5. Os arquivos processados são colocados na pasta **build**. Em produção, ajuste a variável **devBuild** no arquivo **gulpfile.js** para **true**. Dessa forma, os arquivos javascript e css serão comprimidos.
+
+6. A estrutura das pastas deve ser a seguinte:
+
+* Arquivos-fonte (pasta **src**):
+
+src
+├── html
+├── img
+├── js
+└── scss
+
+* Arquivos processados (pasta **build**), criada automaticamente:
+
+build
+├── css
+├── fonts
+├── img
+└── js
