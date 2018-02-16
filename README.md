@@ -36,16 +36,20 @@ $ npm start
 
 * Arquivos-fonte (pasta **src**):
 
+```bash
 src
 ├── html
 ├── img
 ├── js
 └── scss
+```
 
 * Arquivos processados (pasta **build**), criada automaticamente:
 
+```bash
 build
 ├── css
 ├── fonts
 ├── img
 └── js
+```
